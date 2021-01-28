@@ -1,0 +1,11 @@
+GUID 3b0fcb753e4a499b94882fb20d8af80f
+Type Dialogue
+ID 43300
+
+Messages 1
+Message_0_Pages 1
+
+Responses 2
+
+Response_0_Dialogue 43301
+Response_0_Vendor 43110

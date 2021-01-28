@@ -1,0 +1,37 @@
+GUID 748dea95cbb0950def1dcbb953971474
+Type Dialogue
+ID 43342
+
+Messages 2
+
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 32654
+Message_0_Condition_0_Logic Greater_Than
+Message_0_Condition_0_Value 0
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 32654
+Message_1_Condition_0_Logic Equal
+Message_1_Condition_0_Value 0
+Message_1_Condition_0_Allow_Unset
+
+Responses 2
+
+Response_0_Dialogue 43341
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Short
+Response_0_Condition_0_ID 32654
+Response_0_Condition_0_Logic Greater_Than
+Response_0_Condition_0_Value 0
+Response_0_Rewards 2
+Response_0_Reward_0_Type Flag_Short
+Response_0_Reward_0_ID 32654
+Response_0_Reward_0_Value 1
+Response_0_Reward_0_Modification Decrement
+Response_0_Reward_1_Type Item_Random
+Response_0_Reward_1_ID 43500
+Response_0_Reward_1_Amount 1
+Response_1_Dialogue 43340

@@ -1,0 +1,19 @@
+GUID 6571cfd839e54f93b43ecdc6fce3d66f
+Type Spawn
+ID 43500
+
+Tables 7               //Pay 100 Masks
+Table_0_Asset_ID 44009 //1 Mask
+Table_0_Weight 80      //29.3%
+Table_1_Asset_ID 44010 //10 Masks
+Table_1_Weight 70      //25.6%
+Table_2_Asset_ID 44000 //50 Masks
+Table_2_Weight 65      //23.8%
+Table_3_Asset_ID 44001 //100 Masks
+Table_3_Weight 50      //18.3%
+Table_4_Asset_ID 44002 //1000 Masks
+Table_4_Weight 5       //0.02%
+Table_5_Asset_ID 44003 //5000 Masks
+Table_5_Weight 2       //0.007%
+Table_6_Asset_ID 44004 //10000 Masks
+Table_6_Weight 1       //0.004%

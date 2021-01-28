@@ -1,0 +1,13 @@
+GUID c63b3ed8f7f443758e3531345523b9f8
+Type NPC
+ID 43009
+
+Shirt 15034
+Pants 15035
+
+Face 20
+Hair 0
+Color_Skin #c4a87b
+Color_Hair #000000
+
+Dialogue 43290

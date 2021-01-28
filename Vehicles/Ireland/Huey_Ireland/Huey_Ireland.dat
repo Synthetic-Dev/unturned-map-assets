@@ -1,0 +1,32 @@
+GUID 0cfe1694b3b149c6b45f4003ddc9d141
+Type Vehicle
+Rarity Epic
+ID 15031
+
+Speed_Min -2
+Speed_Max 16
+
+Steer_Min 16
+Steer_Max 8
+
+Fuel 2000
+
+Health_Min 800
+Health_Max 900
+Health 1000
+
+Exit 3
+
+Cam_Follow_Distance 7.5
+
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 5
+
+Explosion 20
+Invulnerable
+Asset_Bundle_Version 2
+
+Exclude_From_Master_Bundle

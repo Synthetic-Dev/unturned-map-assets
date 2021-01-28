@@ -1,0 +1,13 @@
+GUID f95e010207e440cfa87294ce4132faeb
+Type Spawn
+ID 10018
+
+Tables 4
+Table_0_Spawn_ID 10068
+Table_0_Weight 15
+Table_1_Spawn_ID 10067
+Table_1_Weight 15
+Table_2_Spawn_ID 10066
+Table_2_Weight 15
+Table_3_Spawn_ID 10065
+Table_3_Weight 5

@@ -1,0 +1,11 @@
+GUID 68aed39c4cb14102ac24b9543e9f519a
+Type Spawn
+ID 10028
+
+Tables 3
+Table_0_Spawn_ID 169
+Table_0_Weight 100
+Table_1_Asset_ID 15035
+Table_1_Weight 5
+Table_2_Asset_ID 15034
+Table_2_Weight 5

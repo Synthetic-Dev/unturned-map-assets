@@ -1,0 +1,11 @@
+GUID 145defe92c3f447d8d97e050efcea9e8
+Type Dialogue
+ID 43220
+
+Messages 1
+Message_0_Pages 1
+
+Responses 2
+
+Response_0_Dialogue 43221
+Response_0_Vendor 43102

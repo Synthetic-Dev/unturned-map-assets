@@ -1,0 +1,27 @@
+GUID 585a2122ae82445089243493178b84ef
+Type Supply
+Rarity Rare
+ID 40000
+
+Size_X 1
+Size_Y 1
+Size_Z 0.6
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 40001
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 40702
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 40000
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 40703
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Tool 40100
+Blueprint_0_Skill Cook
+Blueprint_0_Level 3
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle

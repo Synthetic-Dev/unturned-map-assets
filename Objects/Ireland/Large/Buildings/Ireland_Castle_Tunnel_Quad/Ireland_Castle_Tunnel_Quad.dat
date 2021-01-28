@@ -1,0 +1,15 @@
+GUID 954deb0620094fd59ee800180ac410c2
+
+
+Type Large
+ID 15114
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Soft
+Snowshoe
+Chart Ignore
+
+Exclude_From_Master_Bundle

@@ -1,0 +1,18 @@
+GUID eedef258566948b0b537b034b0ce1a4c
+Type Dialogue
+ID 43311
+
+Messages 2
+Message_0_Pages 1
+Message_0_Prev 43310
+Message_1_Pages 1
+
+Responses 2
+Response_0_Rewards 2
+Response_0_Reward_0_Type Teleport
+Response_0_Reward_0_Spawnpoint Spawn_Exit
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 32652
+Response_0_Reward_1_Value True
+Response_0_Messages 1
+Response_0_Message_1

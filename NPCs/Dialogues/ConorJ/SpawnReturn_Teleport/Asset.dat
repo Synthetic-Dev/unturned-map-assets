@@ -1,0 +1,18 @@
+GUID 0ee7253cff8c47ae9e255e57889ea52b
+Type Dialogue
+ID 43321
+
+Messages 2
+Message_0_Pages 1
+Message_0_Prev 43320
+Message_1_Pages 1
+
+Responses 2
+Response_0_Rewards 2
+Response_0_Reward_0_Type Teleport
+Response_0_Reward_0_Spawnpoint Spawn_Return
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 32653
+Response_0_Reward_1_Value True
+Response_0_Messages 1
+Response_0_Message_1

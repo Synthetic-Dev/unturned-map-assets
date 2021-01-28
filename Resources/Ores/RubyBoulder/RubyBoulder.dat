@@ -1,0 +1,20 @@
+GUID fb4d18b0bde168e4e739a679a2db9af0
+Type Resource
+ID 40404
+
+Health 1200
+Radius 4
+Scale 0.3
+
+Explosion 52
+Reward_ID 41004
+Reward_XP 6
+Reward_Min 3
+Reward_Max 5
+
+BladeID 2
+
+No_Debris
+Reset 1200
+
+Exclude_From_Master_Bundle

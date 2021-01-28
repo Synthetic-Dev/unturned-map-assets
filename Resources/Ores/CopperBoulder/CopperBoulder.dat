@@ -1,0 +1,20 @@
+GUID 35033b27bacf4762bcc54e2f857f57bb
+Type Resource
+ID 40405
+
+Health 1750
+Radius 4
+Scale 0.3
+
+Explosion 52
+Reward_ID 41005
+Reward_XP 6
+Reward_Min 3
+Reward_Max 5
+
+BladeID 2
+
+No_Debris
+Reset 1600
+
+Exclude_From_Master_Bundle

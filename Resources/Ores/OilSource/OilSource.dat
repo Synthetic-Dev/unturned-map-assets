@@ -1,0 +1,20 @@
+GUID ba4c41b6ea824d3094295d7ed9768297
+Type Resource
+ID 40403
+
+Health 800
+Radius 4
+Scale 0.3
+
+Explosion 52
+Reward_ID 41003
+Reward_XP 5
+Reward_Min 5
+Reward_Max 8
+
+BladeID 2
+
+No_Debris
+Reset 600
+
+Exclude_From_Master_Bundle

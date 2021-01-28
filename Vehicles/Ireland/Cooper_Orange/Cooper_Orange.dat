@@ -1,0 +1,26 @@
+GUID f81f6aa1d00f49fab0f5858fbcd077e7
+Type Vehicle
+ID 15003
+
+Speed_Min -5
+Speed_Max 14
+
+Steer_Min 12
+Steer_Max 24
+
+Brake 24
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1400
+
+Health_Min 350
+Health_Max 450
+Health 625
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 3
+
+Explosion 20
+
+Exclude_From_Master_Bundle

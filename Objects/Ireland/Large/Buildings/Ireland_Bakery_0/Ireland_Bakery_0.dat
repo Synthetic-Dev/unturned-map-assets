@@ -1,0 +1,11 @@
+GUID 99540e98528043fbbbe5b808b539dfcd
+
+Type Large
+ID 15081
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Chart Cliff
+
+Exclude_From_Master_Bundle

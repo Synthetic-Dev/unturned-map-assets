@@ -1,0 +1,18 @@
+GUID fd83320d4dcd431aac3d25129d0f1ae4
+Type NPC
+ID 43008
+
+Shirt 405
+Pants 406
+Hat 426
+
+Face 24
+Beard 13
+Hair 0
+Color_Skin #deb887
+Color_Hair #ceccc8
+
+Primary 138
+Secondary 76
+
+Dialogue 43280

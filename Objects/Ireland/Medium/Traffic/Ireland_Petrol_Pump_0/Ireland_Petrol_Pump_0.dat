@@ -1,0 +1,16 @@
+GUID 119fe10439ec4100982cd7df42e58dcb
+
+
+Type Medium
+ID 15119
+
+
+Soft
+Snowshoe
+Chart Ignore
+
+Interactability Fuel
+Interactability_Reset 1500
+Interactability_Resource 2500
+
+Exclude_From_Master_Bundle

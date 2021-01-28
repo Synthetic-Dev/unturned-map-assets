@@ -1,0 +1,14 @@
+GUID f425558918a04486a34dafdadb82bb3c
+Type NPC
+ID 43005
+
+Shirt 421
+Pants 422
+
+Face 20
+Beard 0
+Hair 8
+Color_Skin #f3cca5
+Color_Hair #ceccc8
+
+Dialogue 43250

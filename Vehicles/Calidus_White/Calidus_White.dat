@@ -1,0 +1,29 @@
+GUID 1f807ff95b904071b3b0de3faa273c29
+Type Vehicle
+Rarity Rare
+ID 43005
+
+Speed_Min -2
+Speed_Max 18
+
+Steer_Min 10
+Steer_Max 20
+
+Fuel_Min 50
+Fuel_Max 100
+Fuel 1000
+
+Health_Min 600
+Health_Max 400
+Health 500
+
+Cam_Follow_Distance 13
+
+LockMouse
+Engine Helicopter
+
+Explosion 20
+
+Asset_Bundle_Version 2
+
+Exclude_From_Master_Bundle

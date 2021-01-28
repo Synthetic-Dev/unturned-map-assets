@@ -1,0 +1,17 @@
+GUID 33409cc2a77444788ffb7b338074218f
+Type Animal
+ID 15013
+
+Speed_Run 8
+Speed_Walk 4
+
+Behaviour Defense
+
+Health 50
+Meat 40502
+Pelt 40501
+Reward_XP 6
+Reward_Min 1
+Reward_Max 2
+
+Exclude_From_Master_Bundle

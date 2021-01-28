@@ -1,0 +1,17 @@
+GUID a8a7dd80baf141bf920cb83ee0245cb1
+Type Animal
+ID 15010
+
+Speed_Run 10
+Speed_Walk 5
+
+Behaviour Ignore
+
+Health 70
+
+Pelt 516
+Reward_XP 6
+Reward_Min 1
+Reward_Max 2
+
+Exclude_From_Master_Bundle

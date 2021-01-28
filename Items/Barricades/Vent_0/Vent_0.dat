@@ -1,0 +1,17 @@
+GUID a34cf66c94a44c1fb96d6ef6b94f19b6
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 41229
+
+Size_X 2
+Size_Y 1
+Size_Z 0.65
+
+Health 350
+Range 4
+Radius 0.5
+Offset 1.25
+
+Explosion 29

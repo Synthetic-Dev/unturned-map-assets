@@ -1,0 +1,83 @@
+GUID d90632cfca2b4d99a76cdcd5f1d4c1c9
+Type Gun
+Rarity Mythical
+Useable Gun
+Slot Primary
+ID 15053
+
+Size_X 4
+Size_Y 2
+Size_Z 0.35
+Size2_Z 0.7
+
+Sight 15054
+Magazine 15055
+
+
+Ammo_Min 4
+Ammo_Max 4
+
+Safety
+Semi
+
+Caliber 289
+
+Firerate 70
+Replace 0.5
+Action Rocket
+
+Player_Damage 230
+Zombie_Damage 230
+Animal_Damage 230
+Barricade_Damage 1300
+Structure_Damage 1300
+Vehicle_Damage 600
+Resource_Damage 2800
+Object_Damage 1500
+
+Range 12
+Explosion 45
+
+Durability 1
+Wear 4
+
+Spread_Aim 0.065
+Spread_Hip 0.1
+
+Ballistic_Force 4200
+
+Recoil_Min_X -10
+Recoil_Min_Y 15
+Recoil_Max_X 10
+Recoil_Max_Y 25
+
+Recover_X 0.75
+Recover_Y 0.7
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.02
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 15053
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 67
+Blueprint_1_Output_0_Amount 6
+Blueprint_1_Output_1_ID 285
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 27
+
+Exclude_From_Master_Bundle

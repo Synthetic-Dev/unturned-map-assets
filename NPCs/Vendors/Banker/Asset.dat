@@ -1,0 +1,67 @@
+GUID a7141a7f5cacea0168f5df4492796c59
+Type Vendor
+ID 43105
+
+Buying 10
+
+Buying_0_ID 44000
+Buying_0_Cost 50
+
+Buying_1_ID 44001
+Buying_1_Cost 100
+
+Buying_2_ID 44002
+Buying_2_Cost 1000
+
+Buying_3_ID 44003
+Buying_3_Cost 5000
+
+Buying_4_ID 44004
+Buying_4_Cost 10000
+
+Buying_5_ID 44005
+Buying_5_Cost 50000
+
+Buying_6_ID 44006
+Buying_6_Cost 100000
+
+Buying_7_ID 44007
+Buying_7_Cost 500000
+
+Buying_8_ID 44009
+Buying_8_Cost 1
+
+Buying_9_ID 44010
+Buying_9_Cost 10
+
+Selling 10
+
+Selling_0_ID 44000
+Selling_0_Cost 50
+
+Selling_1_ID 44001
+Selling_1_Cost 100
+
+Selling_2_ID 44002
+Selling_2_Cost 1000
+
+Selling_3_ID 44003
+Selling_3_Cost 5000
+
+Selling_4_ID 44004
+Selling_4_Cost 10000
+
+Selling_5_ID 44005
+Selling_5_Cost 50000
+
+Selling_6_ID 44006
+Selling_6_Cost 100000
+
+Selling_7_ID 44007
+Selling_7_Cost 500000
+
+Selling_8_ID 44009
+Selling_8_Cost 1
+
+Selling_9_ID 44010
+Selling_9_Cost 10

@@ -1,0 +1,15 @@
+GUID 9a0e0fa03003447cb2c66c0eed5aed82
+
+
+Type Small
+ID 15025
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Snowshoe
+Soft
+Chart Ignore
+
+Exclude_From_Master_Bundle

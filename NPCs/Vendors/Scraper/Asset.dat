@@ -1,0 +1,85 @@
+GUID 84a2812195ef47d388348cf873141862
+Type Vendor
+ID 43104
+
+Buying 13
+//Rope
+Buying_0_ID 64
+Buying_0_Cost 10
+//Wire
+Buying_1_ID 65
+Buying_1_Cost 25
+//Cloth
+Buying_2_ID 66
+Buying_2_Cost 2
+//Scrap
+Buying_3_ID 67
+Buying_3_Cost 10
+//Metal Sheet
+Buying_4_ID 68
+Buying_4_Cost 20
+//Tape
+Buying_5_ID 69
+Buying_5_Cost 20
+//Glue
+Buying_6_ID 70
+Buying_6_Cost 10
+//Nails
+Buying_7_ID 71
+Buying_7_Cost 25
+//Can
+Buying_8_ID 72
+Buying_8_Cost 50
+//Explosives
+Buying_9_ID 73
+Buying_9_Cost 100
+//Bricks
+Buying_10_ID 74
+Buying_10_Cost 30
+//Metal Bar
+Buying_11_ID 285
+Buying_11_Cost 5
+//Chemicals
+Buying_12_ID 75
+Buying_12_Cost 15
+
+Selling 13
+
+Selling_0_ID 64
+Selling_0_Cost 20
+
+Selling_1_ID 65
+Selling_1_Cost 30
+
+Selling_2_ID 66
+Selling_2_Cost 5
+
+Selling_3_ID 67
+Selling_3_Cost 15
+
+Selling_4_ID 68
+Selling_4_Cost 30
+
+Selling_5_ID 69
+Selling_5_Cost 30
+
+Selling_6_ID 70
+Selling_6_Cost 25
+
+Selling_7_ID 71
+Selling_7_Cost 35
+
+Selling_8_ID 72
+Selling_8_Cost 60
+
+Selling_9_ID 73
+Selling_9_Cost 150
+
+Selling_10_ID 74
+Selling_10_Cost 50
+
+Selling_11_ID 285
+Selling_11_Cost 7
+
+Selling_12_ID 75
+Selling_12_Cost 30

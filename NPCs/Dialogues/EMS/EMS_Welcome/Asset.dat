@@ -1,0 +1,21 @@
+﻿GUID b43a4ed7c5004801b913a9340c9495d9
+Type Dialogue
+ID 43360
+
+Messages 5
+
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Item
+Message_0_Condition_0_ID 44015
+Message_0_Condition_0_Amount 1
+Message_1_Pages 1
+
+Responses 2
+
+Response_0_Dialogue 43361
+Response_0_Vendor 43114
+Response_0_Conditions 1
+Response_0_Condition_0_Type Item
+Response_0_Condition_0_ID 44015
+Response_0_Condition_0_Amount 1

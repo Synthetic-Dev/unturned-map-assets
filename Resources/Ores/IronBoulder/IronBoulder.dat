@@ -1,0 +1,20 @@
+GUID ae3a0cfefb484d7296bf98f26ceb7c7c
+Type Resource
+ID 40406
+
+Health 1750
+Radius 4
+Scale 0.3
+
+Explosion 52
+Reward_ID 41006
+Reward_XP 6
+Reward_Min 3
+Reward_Max 5
+
+BladeID 2
+
+No_Debris
+Reset 1600
+
+Exclude_From_Master_Bundle

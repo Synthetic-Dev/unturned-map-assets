@@ -1,0 +1,15 @@
+GUID 9bfce224641d425aa6f9a507fc098840
+
+
+
+Type Large
+ID 15162
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Soft
+Chart Cliff
+
+Exclude_From_Master_Bundle

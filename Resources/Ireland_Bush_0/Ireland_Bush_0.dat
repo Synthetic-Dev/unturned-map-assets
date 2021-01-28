@@ -1,0 +1,17 @@
+GUID 9ce397baca214f45a345db7e2c85313d
+
+Type Resource
+ID 15000
+
+Health 1
+Radius 3
+Scale 0.1
+
+Explosion 43
+
+Log 40
+Forage
+
+Reset 1000
+
+Exclude_From_Master_Bundle

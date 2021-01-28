@@ -1,0 +1,124 @@
+GUID 8d0a99fe80d445ce8f8e576b35ff9abb
+Type Vendor
+ID 43100
+
+Buying 24
+
+Buying_0_ID 271
+Buying_0_Cost 20
+
+Buying_1_ID 398
+Buying_1_Cost 40
+
+Buying_2_ID 272
+Buying_2_Cost 20
+
+Buying_3_ID 399
+Buying_3_Cost 40
+
+Buying_4_ID 273
+Buying_4_Cost 20
+
+Buying_5_ID 400
+Buying_5_Cost 40
+
+Buying_6_ID 270
+Buying_6_Cost 20
+
+Buying_7_ID 397
+Buying_7_Cost 40
+
+Buying_8_ID 274
+Buying_8_Cost 20
+
+Buying_9_ID 401
+Buying_9_Cost 40
+
+Buying_10_ID 275
+Buying_10_Cost 20
+
+Buying_11_ID 402
+Buying_11_Cost 40
+
+Buying_12_ID 115
+Buying_12_Cost 20
+
+Buying_13_ID 396
+Buying_13_Cost 40
+
+Buying_14_ID 4739
+Buying_14_Cost 25
+
+Buying_15_ID 4736
+Buying_15_Cost 35
+
+Buying_16_ID 4740
+Buying_16_Cost 50
+
+Buying_17_ID 4737
+Buying_17_Cost 50
+
+Buying_18_ID 4756
+Buying_18_Cost 250
+
+Buying_19_ID 4755
+Buying_19_Cost 100
+
+Buying_20_ID 4748
+Buying_20_Cost 150
+
+Buying_21_ID 4741
+Buying_21_Cost 100
+
+Buying_22_ID 4746
+Buying_22_Cost 100
+
+Buying_23_ID 4749
+Buying_23_Cost 150
+
+Selling 15
+
+Selling_0_ID 1105
+Selling_0_Cost 2500
+
+Selling_1_ID 1108
+Selling_1_Cost 2000
+
+Selling_2_ID 1104
+Selling_2_Cost 2000
+
+Selling_3_ID 1106
+Selling_3_Cost 2000
+
+Selling_4_ID 1107
+Selling_4_Cost 2000
+
+Selling_5_ID 1109
+Selling_5_Cost 2000
+
+Selling_6_ID 1110
+Selling_6_Cost 2000
+
+Selling_7_ID 1345
+Selling_7_Cost 1000
+
+Selling_8_ID 4744
+Selling_8_Cost 5000
+
+Selling_9_ID 4738
+Selling_9_Cost 3000
+
+Selling_10_ID 4759
+Selling_10_Cost 800
+
+Selling_11_ID 4745
+Selling_11_Cost 10000
+
+Selling_12_ID 4747
+Selling_12_Cost 2500
+
+Selling_13_ID 4735
+Selling_13_Cost 2500
+
+Selling_14_ID 4743
+Selling_14_Cost 1000

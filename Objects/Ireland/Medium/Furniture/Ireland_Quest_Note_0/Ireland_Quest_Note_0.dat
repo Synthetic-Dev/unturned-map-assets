@@ -1,0 +1,19 @@
+GUID 4976e54704664dae833121d356c509e9
+Type Medium
+ID 15900
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 15245
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 6
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 15245
+Interactability_Reward_0_Value True
+
+Exclude_From_Master_Bundle

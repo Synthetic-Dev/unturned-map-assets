@@ -1,0 +1,35 @@
+GUID 43620e1048bd48eeb0e165b25c6a9a35
+Type Vehicle
+Rarity Epic
+ID 43002
+
+Speed_Min -2
+Speed_Max 16
+
+Steer_Min 18
+Steer_Max 9
+
+Fuel_Min 50
+Fuel_Max 100
+Fuel 2000
+
+Health_Min 800
+Health_Max 900
+Health 1000
+
+Exit 3
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 6
+
+Cam_Follow_Distance 15
+
+LockMouse
+Engine Helicopter
+
+Explosion 20
+Invulnerable
+
+Asset_Bundle_Version 2
+
+Exclude_From_Master_Bundle

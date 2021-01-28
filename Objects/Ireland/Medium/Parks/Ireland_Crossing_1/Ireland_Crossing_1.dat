@@ -1,0 +1,15 @@
+GUID 779bab55b9424370a8b0b57264eb9cff
+
+Type Medium
+ID 15088
+
+Snowshoe
+Chart Ignore
+
+
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 200
+Interactability_Effect 80
+
+Exclude_From_Master_Bundle

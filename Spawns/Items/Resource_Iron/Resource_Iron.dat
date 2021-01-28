@@ -1,0 +1,35 @@
+GUID ba65b3adc310400b8b7acd2f141539dc
+Type Spawn
+ID 41006
+
+Roots 13
+Root_0_Spawn_ID 583
+Root_0_Weight 18
+Root_1_Spawn_ID 719
+Root_1_Weight 18
+Root_2_Spawn_ID 704
+Root_2_Weight 18
+Root_3_Spawn_ID 840
+Root_3_Weight 18
+Root_4_Spawn_ID 845
+Root_4_Weight 18
+Root_5_Spawn_ID 366
+Root_5_Weight 18
+Root_6_Spawn_ID 492
+Root_6_Weight 18
+Root_7_Spawn_ID 444
+Root_7_Weight 18
+Root_8_Spawn_ID 168
+Root_8_Weight 18
+Root_9_Spawn_ID 179
+Root_9_Weight 18
+Root_10_Spawn_ID 584
+Root_10_Weight 18
+Root_11_Spawn_ID 169
+Root_11_Weight 18
+Root_12_Spawn_ID 2006
+Root_12_Weight 18
+
+Tables 1
+Table_0_Asset_ID 40012
+Table_0_Weight 100

@@ -1,0 +1,33 @@
+GUID 0f1d8253cd0c4e31ba8714538127cb9e
+Type Dialogue
+ID 43310
+
+Messages 2
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 32652
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Allow_Unset
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Bool
+Message_1_Condition_0_ID 32652
+Message_1_Condition_0_Logic Equal
+Message_1_Condition_0_Value True
+
+Responses 3
+Response_0_Dialogue 43311
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Bool
+Response_0_Condition_0_ID 32652
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_Value False
+Response_0_Condition_0_Allow_Unset
+Response_1_Dialogue 43311
+Response_1_Conditions 1
+Response_1_Condition_0_Type Flag_Bool
+Response_1_Condition_0_ID 32652
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Value True

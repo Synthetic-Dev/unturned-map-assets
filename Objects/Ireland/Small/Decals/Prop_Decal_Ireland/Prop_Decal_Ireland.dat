@@ -1,0 +1,10 @@
+GUID 0de40d0336ea4a57aedcfd89ee22a6bc
+
+Type Decal
+ID 15171
+
+Decal_X 6
+Decal_Y 3
+Decal_LOD_Bias 1
+
+Exclude_From_Master_Bundle

@@ -1,0 +1,19 @@
+GUID d04e3ef8a73c49c8901076a3ef202046
+Type NPC
+ID 43013
+
+Shirt 15032
+Pants 15033
+Mask 15009
+
+Face 22
+Hair 20
+Color_Skin #764a34
+Color_Hair #0c0c0c
+
+Tertiary 1353
+Equipped Tertiary
+
+Pose Crouch
+
+Dialogue 43330

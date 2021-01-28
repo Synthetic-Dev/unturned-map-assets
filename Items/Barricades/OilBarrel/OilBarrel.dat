@@ -1,0 +1,30 @@
+GUID ec5e1cc7b7ca497380338c4a7f6abea7
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 40702
+
+Size_X 2
+Size_Y 2
+Size_Z 0.8
+
+Health 200
+Range 5
+Radius 0.45
+Offset 0.45
+
+Explosion 12
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 40008
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Supply_1_ID 40703
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Skill Cook
+Blueprint_0_Level 3
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle

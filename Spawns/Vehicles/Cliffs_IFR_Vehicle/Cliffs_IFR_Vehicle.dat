@@ -1,0 +1,25 @@
+GUID 7f7d886c4d194d0eb9190d3d8a854e1b
+Type Spawn
+ID 10120
+
+Tables 10
+Table_0_Spawn_ID 957
+Table_0_Weight 20
+Table_1_Spawn_ID 68
+Table_1_Weight 20
+Table_2_Asset_ID 22
+Table_2_Weight 10
+Table_3_Asset_ID 21
+Table_3_Weight 10
+Table_4_Asset_ID 24
+Table_4_Weight 10
+Table_5_Asset_ID 23
+Table_5_Weight 10
+Table_6_Asset_ID 18
+Table_6_Weight 10
+Table_7_Asset_ID 17
+Table_7_Weight 10
+Table_8_Asset_ID 20
+Table_8_Weight 10
+Table_9_Asset_ID 19
+Table_9_Weight 10

@@ -1,0 +1,14 @@
+GUID ee360afdec5c426489421c34b6087925
+
+Type Medium
+ID 15011
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Chart Ground
+Soft
+Snowshoe
+
+Exclude_From_Master_Bundle

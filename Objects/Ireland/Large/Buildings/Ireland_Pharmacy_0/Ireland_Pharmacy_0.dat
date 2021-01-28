@@ -1,0 +1,11 @@
+GUID 0b5c44bee5a344fba5ec881b7b4e506d
+
+
+Type Large
+ID 15146
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Exclude_From_Master_Bundle

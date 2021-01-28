@@ -1,0 +1,18 @@
+GUID abd34544057b441fa9bff86be9f041a9
+Type NPC
+ID 43001
+
+Shirt 211
+Pants 213
+Backpack 253
+
+Face 11
+Beard 6
+Hair 1
+Color_Skin #e1b37e
+Color_Hair #383129
+
+Primary 16
+Secondary 140
+
+Dialogue 43210

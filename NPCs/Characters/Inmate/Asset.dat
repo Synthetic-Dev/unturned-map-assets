@@ -1,0 +1,13 @@
+GUID bab8632a548f4951b1884ef3c734abef
+Type NPC
+ID 43017
+
+Shirt 303
+Pants 304
+
+Face 9
+Hair 6
+Color_Skin #aa9069
+Color_Hair #262626
+
+Dialogue 43370

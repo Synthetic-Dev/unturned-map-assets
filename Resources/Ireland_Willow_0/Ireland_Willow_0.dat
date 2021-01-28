@@ -1,0 +1,22 @@
+GUID 1935d1910654425180dfd31c2c55be6d
+
+
+Type Resource
+ID 15004
+
+
+Health 1000
+Radius 1
+Scale 0.3
+
+Explosion 21
+Reward_ID 516
+Reward_XP 4
+Reward_Min 7
+Reward_Max 10
+
+Reset 450
+
+Auto_Skybox
+
+Exclude_From_Master_Bundle

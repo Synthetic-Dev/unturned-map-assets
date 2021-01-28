@@ -1,0 +1,14 @@
+GUID 78c4f5b410164b3ca743077f38db9641
+Type Food
+Useable Consumeable
+ID 40501
+
+Size_X 2
+Size_Y 1
+Size_Z 0.45
+
+Health 2
+Food 4
+Virus 20
+
+Exclude_From_Master_Bundle

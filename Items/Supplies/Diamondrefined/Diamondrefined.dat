@@ -1,0 +1,27 @@
+GUID c3f392fa258b41cabecefc669d4c6f0a
+Type Supply
+Rarity Epic
+ID 40002
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 40003
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 40702
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 40002
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 40703
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Tool 40100
+Blueprint_0_Skill Cook
+Blueprint_0_Level 3
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle

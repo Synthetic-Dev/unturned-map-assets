@@ -1,0 +1,31 @@
+GUID f311713216d84505be7b99b64c084747
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Freeform
+ID 40705
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 1750
+Range 8
+Radius 0.5
+Offset 1.75
+
+Explosion 19
+
+Blueprints 2
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 40002
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Build 27
+Blueprint_1_Type Barricade
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 40709
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Build 27
+
+Exclude_From_Master_Bundle

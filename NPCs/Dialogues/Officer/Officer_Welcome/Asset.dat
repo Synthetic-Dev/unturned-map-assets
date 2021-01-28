@@ -1,0 +1,21 @@
+﻿GUID 721741489bb442aa95557129247361ac
+Type Dialogue
+ID 43350
+
+Messages 5
+
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Item
+Message_0_Condition_0_ID 44017
+Message_0_Condition_0_Amount 1
+Message_1_Pages 1
+
+Responses 2
+
+Response_0_Dialogue 43351
+Response_0_Vendor 43113
+Response_0_Conditions 1
+Response_0_Condition_0_Type Item
+Response_0_Condition_0_ID 44017
+Response_0_Condition_0_Amount 1

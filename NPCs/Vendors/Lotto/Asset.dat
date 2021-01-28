@@ -1,0 +1,13 @@
+GUID 533ea96a4c574935bec6df53de276604
+Type Vendor
+ID 43112
+
+Selling 1
+
+Selling_0_ID 44016
+Selling_0_Cost 100
+Selling_0_Rewards 1
+Selling_0_Reward_0_Type Flag_Short
+Selling_0_Reward_0_ID 32654
+Selling_0_Reward_0_Value 1
+Selling_0_Reward_0_Modification Increment

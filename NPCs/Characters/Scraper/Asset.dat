@@ -1,0 +1,16 @@
+GUID 629a586c7a094a989b3a300a9f1db337
+Type NPC
+ID 43004
+
+Shirt 184
+Pants 406
+
+Face 4
+Beard 11
+Hair 14
+Color_Skin #473b27
+Color_Hair #aaa39d
+
+Pose Rest
+
+Dialogue 43240

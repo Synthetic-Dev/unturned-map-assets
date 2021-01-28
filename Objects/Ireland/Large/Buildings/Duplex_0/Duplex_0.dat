@@ -1,0 +1,15 @@
+GUID f9b95deaa69e498880de19f1c4a1741a
+
+
+Type Large
+ID 15009
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+
+
+Material_Palette 87aba6cecf1c40788e98ab17a1c38783
+
+Exclude_From_Master_Bundle

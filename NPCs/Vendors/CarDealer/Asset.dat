@@ -1,0 +1,246 @@
+GUID 63c4525661bb4f36bcad9dc2bc3a6239
+Type Vendor
+ID 43108
+
+Selling 49
+
+Selling_0_Type Vehicle
+Selling_0_ID 1
+Selling_0_Spawnpoint StarterCars
+Selling_0_Cost 5000
+
+Selling_1_Type Vehicle
+Selling_1_ID 2
+Selling_1_Spawnpoint StarterCars
+Selling_1_Cost 5000
+
+Selling_2_Type Vehicle
+Selling_2_ID 9
+Selling_2_Spawnpoint StarterCars
+Selling_2_Cost 5000
+
+Selling_3_Type Vehicle
+Selling_3_ID 10
+Selling_3_Spawnpoint StarterCars
+Selling_3_Cost 5000
+
+Selling_4_Type Vehicle
+Selling_4_ID 17
+Selling_4_Spawnpoint StarterCars
+Selling_4_Cost 7500
+
+Selling_5_Type Vehicle
+Selling_5_ID 18
+Selling_5_Spawnpoint StarterCars
+Selling_5_Cost 7500
+
+Selling_6_Type Vehicle
+Selling_6_ID 25
+Selling_6_Spawnpoint StarterCars
+Selling_6_Cost 5000
+
+Selling_7_Type Vehicle
+Selling_7_ID 26
+Selling_7_Spawnpoint StarterCars
+Selling_7_Cost 5000
+
+Selling_8_Type Vehicle
+Selling_8_ID 35
+Selling_8_Spawnpoint StarterCars
+Selling_8_Cost 8000
+
+Selling_9_Type Vehicle
+Selling_9_ID 36
+Selling_9_Spawnpoint StarterCars
+Selling_9_Cost 8000
+
+Selling_10_Type Vehicle
+Selling_10_ID 43
+Selling_10_Spawnpoint StarterCars
+Selling_10_Cost 8000
+
+Selling_11_Type Vehicle
+Selling_11_ID 44
+Selling_11_Spawnpoint StarterCars
+Selling_11_Cost 8000
+
+Selling_12_Type Vehicle
+Selling_12_ID 136
+Selling_12_Spawnpoint StarterCars
+Selling_12_Cost 35000
+
+Selling_13_Type Vehicle
+Selling_13_ID 119
+Selling_13_Spawnpoint StarterCars
+Selling_13_Cost 50000
+
+Selling_14_Type Vehicle
+Selling_14_ID 67
+Selling_14_Spawnpoint StarterCars
+Selling_14_Cost 750
+
+Selling_15_Type Vehicle
+Selling_15_ID 68
+Selling_15_Spawnpoint StarterCars
+Selling_15_Cost 750
+
+Selling_16_Type Vehicle
+Selling_16_ID 176
+Selling_16_Spawnpoint StarterCars
+Selling_16_Cost 750
+
+Selling_17_Type Vehicle
+Selling_17_ID 177
+Selling_17_Spawnpoint StarterCars
+Selling_17_Cost 750
+
+Selling_18_Type Vehicle
+Selling_18_ID 76
+Selling_18_Spawnpoint StarterCars
+Selling_18_Cost 5000
+
+Selling_19_Type Vehicle
+Selling_19_ID 8440
+Selling_19_Spawnpoint StarterCars
+Selling_19_Cost 10000
+
+Selling_20_Type Vehicle
+Selling_20_ID 8442
+Selling_20_Spawnpoint StarterCars
+Selling_20_Cost 10000
+
+Selling_21_Type Vehicle
+Selling_21_ID 9872
+Selling_21_Spawnpoint StarterCars
+Selling_21_Cost 7500
+
+Selling_22_Type Vehicle
+Selling_22_ID 9879
+Selling_22_Spawnpoint StarterCars
+Selling_22_Cost 7500
+
+Selling_23_Type Vehicle
+Selling_23_ID 9880
+Selling_23_Spawnpoint StarterCars
+Selling_23_Cost 7500
+
+Selling_24_Type Vehicle
+Selling_24_ID 9884
+Selling_24_Spawnpoint StarterCars
+Selling_24_Cost 8000
+
+Selling_25_Type Vehicle
+Selling_25_ID 9885
+Selling_25_Spawnpoint StarterCars
+Selling_25_Cost 8000
+
+Selling_26_Type Vehicle
+Selling_26_ID 9886
+Selling_26_Spawnpoint StarterCars
+Selling_26_Cost 7500
+
+Selling_27_Type Vehicle
+Selling_27_ID 9888
+Selling_27_Spawnpoint StarterCars
+Selling_27_Cost 15000
+
+Selling_28_Type Vehicle
+Selling_28_ID 9893
+Selling_28_Spawnpoint StarterCars
+Selling_28_Cost 12500
+
+Selling_29_Type Vehicle
+Selling_29_ID 9898
+Selling_29_Spawnpoint StarterCars
+Selling_29_Cost 50000
+
+Selling_30_Type Vehicle
+Selling_30_ID 9901
+Selling_30_Spawnpoint StarterCars
+Selling_30_Cost 30000
+
+Selling_31_Type Vehicle
+Selling_31_ID 9904
+Selling_31_Spawnpoint StarterCars
+Selling_31_Cost 30000
+
+Selling_32_Type Vehicle
+Selling_32_ID 9908
+Selling_32_Spawnpoint StarterCars
+Selling_32_Cost 30000
+
+Selling_33_Type Vehicle
+Selling_33_ID 7778
+Selling_33_Spawnpoint StarterCars
+Selling_33_Cost 10000
+
+Selling_34_Type Vehicle
+Selling_34_ID 9912
+Selling_34_Spawnpoint StarterCars
+Selling_34_Cost 24000
+
+Selling_35_Type Vehicle
+Selling_35_ID 9917
+Selling_35_Spawnpoint StarterCars
+Selling_35_Cost 5000
+
+Selling_36_Type Vehicle
+Selling_36_ID 9914
+Selling_36_Spawnpoint StarterCars
+Selling_36_Cost 5000
+
+Selling_37_Type Vehicle
+Selling_37_ID 9919
+Selling_37_Spawnpoint StarterCars
+Selling_37_Cost 35000
+
+Selling_38_Type Vehicle
+Selling_38_ID 9920
+Selling_38_Spawnpoint StarterCars
+Selling_38_Cost 35000
+
+Selling_39_Type Vehicle
+Selling_39_ID 9922
+Selling_39_Spawnpoint StarterCars
+Selling_39_Cost 35000
+
+Selling_40_Type Vehicle
+Selling_40_ID 9927
+Selling_40_Spawnpoint StarterCars
+Selling_40_Cost 35000
+
+Selling_41_Type Vehicle
+Selling_41_ID 9930
+Selling_41_Spawnpoint StarterCars
+Selling_41_Cost 75000
+
+Selling_42_Type Vehicle
+Selling_42_ID 9928
+Selling_42_Spawnpoint StarterCars
+Selling_42_Cost 75000
+
+Selling_43_Type Vehicle
+Selling_43_ID 9932
+Selling_43_Spawnpoint StarterCars
+Selling_43_Cost 75000
+
+Selling_44_Type Vehicle
+Selling_44_ID 10019
+Selling_44_Spawnpoint StarterCars
+Selling_44_Cost 15000
+
+Selling_45_Type Vehicle
+Selling_45_ID 704
+Selling_45_Spawnpoint StarterCars
+Selling_45_Cost 30000
+
+Selling_46_Type Vehicle
+Selling_46_ID 705
+Selling_46_Spawnpoint StarterCars
+Selling_46_Cost 30000
+
+Selling_47_ID 21377
+Selling_47_Cost 150
+
+Selling_48_ID 21378
+Selling_48_Cost 150

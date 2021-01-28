@@ -1,0 +1,14 @@
+GUID a7c2e625970c47d8b5b958c4dfab78b3
+Type Food
+Useable Consumeable
+ID 40503
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Health 15
+Food 50
+Water 10
+
+Exclude_From_Master_Bundle

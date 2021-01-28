@@ -1,0 +1,17 @@
+GUID 5c2fadf7c8864915b2618802926559c7
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Sign_Wall
+ID 41216
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 350
+Range 4
+Radius 0.5
+Offset 1.25
+
+Explosion 29

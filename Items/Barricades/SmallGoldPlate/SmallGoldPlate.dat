@@ -1,0 +1,34 @@
+GUID 17cb2d08bbeb465a9ec07a32e6c252cf
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Freeform
+ID 40708
+
+Size_X 1
+Size_Y 1
+Size_Z 0.5
+
+Health 338
+Range 8
+Radius 0.5
+Offset 1.25
+
+Explosion 19
+
+Blueprints 2
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 40000
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_Type Barricade
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 40704
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 40708
+Blueprint_1_Output_0_Amount 4
+
+Exclude_From_Master_Bundle

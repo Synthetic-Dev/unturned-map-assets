@@ -1,0 +1,16 @@
+GUID 2fd0af778387455f8cc47d9b765da05f
+Type NPC
+ID 43007
+
+Shirt 242
+Pants 243
+
+Face 20
+Beard 0
+Hair 7
+Color_Skin #f3cca5
+Color_Hair #7a7976
+
+Primary 1031
+
+Dialogue 43270

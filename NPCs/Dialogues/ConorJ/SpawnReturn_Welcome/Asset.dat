@@ -1,0 +1,21 @@
+GUID e9e67ebfff444bf6ae03a414cb587f3e
+Type Dialogue
+ID 43320
+
+Messages 2
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 32653
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Allow_Unset
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Bool
+Message_1_Condition_0_ID 32653
+Message_1_Condition_0_Logic Equal
+Message_1_Condition_0_Value True
+
+Responses 2
+Response_0_Dialogue 43321

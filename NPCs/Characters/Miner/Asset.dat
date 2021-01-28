@@ -1,0 +1,20 @@
+GUID f6d0f8326d664060a68a7adaf5e8b6a0
+Type NPC
+ID 43002
+
+Shirt 232
+Pants 2
+Hat 240
+Glasses 1199
+
+Face 29
+Beard 1
+Hair 13
+Color_Skin #f9d59a
+Color_Hair #664f39
+
+Primary 1198
+Secondary 276
+Equipped Secondary
+
+Dialogue 43220

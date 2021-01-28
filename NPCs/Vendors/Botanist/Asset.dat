@@ -1,0 +1,136 @@
+GUID 31f9ea9ea8af92d284306bad076939fc
+
+Type Vendor
+ID 43107
+
+Buying 21
+
+//Apple
+Buying_0_ID 42106
+Buying_0_Cost 10
+//Orange
+Buying_1_ID 42108
+Buying_1_Cost 10
+//Cotton
+Buying_2_ID 42111
+Buying_2_Cost 15
+//Banana
+Buying_3_ID 42114
+Buying_3_Cost 15
+//Leak
+Buying_4_ID 42117
+Buying_4_Cost 20
+//Red Flower
+Buying_5_ID 42122
+Buying_5_Cost 25
+//Cactus
+Buying_6_ID 42124
+Buying_6_Cost 25
+//Yellow Flower
+Buying_7_ID 42126
+Buying_7_Cost 25
+//Blue Flower
+Buying_8_ID 42128
+Buying_8_Cost 25
+//Sugarcane
+Buying_9_ID 42151
+Buying_9_Cost 30
+//Leafy Potted Tree
+Buying_10_ID 42181
+Buying_10_Cost 50
+//Tall Potted Tree
+Buying_11_ID 42183
+Buying_11_Cost 50
+//Palm Potted Tree
+Buying_12_ID 42185
+Buying_12_Cost 50
+//Carrot
+Buying_13_ID 329
+Buying_13_Cost 5
+//Corn
+Buying_14_ID 335
+Buying_14_Cost 10
+//Tomato
+Buying_15_ID 340
+Buying_15_Cost 5
+//Potato
+Buying_16_ID 342
+Buying_16_Cost 5
+//Wheat
+Buying_17_ID 344
+Buying_17_Cost 10
+//Strawberry
+Buying_18_ID 42213
+Buying_18_Cost 15
+//Roasted Coffee Beans
+Buying_19_ID 42104
+Buying_19_Cost 30
+//Cacao
+Buying_20_ID 42211
+Buying_20_Cost 40
+
+Selling 21
+
+//Apple Seed
+Selling_0_ID 42105
+Selling_0_Cost 1000
+//Orange Seed
+Selling_1_ID 42107
+Selling_1_Cost 1000
+//Cotton Seed
+Selling_2_ID 42110
+Selling_2_Cost 1500
+//Banana Seed
+Selling_3_ID 42113
+Selling_3_Cost 1500
+//Leak Seed
+Selling_4_ID 42116
+Selling_4_Cost 2000
+//Red Flower Seed
+Selling_5_ID 42121
+Selling_5_Cost 2500
+//Cactus Seed
+Selling_6_ID 42123
+Selling_6_Cost 2500
+//Yellow Flower Seed
+Selling_7_ID 42125
+Selling_7_Cost 2500
+//Blue Flower Seed
+Selling_8_ID 42127
+Selling_8_Cost 2500
+//Sugarcane Seed
+Selling_9_ID 42150
+Selling_9_Cost 3000
+//Leafy Potted Tree Seed
+Selling_10_ID 42180
+Selling_10_Cost 5000
+//Tall Potted Tree Seed
+Selling_11_ID 42182
+Selling_11_Cost 5000
+//Palm Potted Tree Seed
+Selling_12_ID 42184
+Selling_12_Cost 5000
+//Carrot Seed
+Selling_13_ID 330
+Selling_13_Cost 500
+//Corn Seed
+Selling_14_ID 336
+Selling_14_Cost 1000
+//Tomato Seed
+Selling_15_ID 341
+Selling_15_Cost 500
+//Potato Seed
+Selling_16_ID 343
+Selling_16_Cost 500
+//Wheat Seed
+Selling_17_ID 345
+Selling_17_Cost 1000
+//Cocao Seed
+Selling_18_ID 42210
+Selling_18_Cost 4000
+//Strawberry Seed
+Selling_19_ID 42212
+Selling_19_Cost 1500
+//Coffee Seed
+Selling_20_ID 42101
+Selling_20_Cost 3000

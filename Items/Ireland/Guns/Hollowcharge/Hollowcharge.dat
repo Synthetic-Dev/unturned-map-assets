@@ -1,0 +1,98 @@
+GUID a72cd38fb83e4b90b38ac538b218e175
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 15050
+
+Size_X 5
+Size_Y 2
+Size_Z 0.55
+Size2_Z 0.8
+
+Magazine 15052
+
+Ammo_Min 1
+Ammo_Max 5
+
+Safety
+Semi
+
+Caliber 283
+
+Replace 0.73
+
+Range 300
+Firerate 50
+Action Bolt
+
+Player_Damage 120
+Player_Leg_Multiplier 0.9
+Player_Arm_Multiplier 0.9
+Player_Spine_Multiplier 0.9
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 120
+Zombie_Leg_Multiplier 0.9
+Zombie_Arm_Multiplier 0.9
+Zombie_Spine_Multiplier 0.9
+Zombie_Skull_Multiplier 1.2
+
+Animal_Damage 150
+Animal_Leg_Multiplier 0.9
+Animal_Spine_Multiplier 0.9
+Animal_Skull_Multiplier 1.5
+
+Barricade_Damage 500
+Structure_Damage 500
+Vehicle_Damage 260
+Resource_Damage 799
+Object_Damage 1000
+
+Invulnerable
+
+Durability 1
+Wear 8
+
+Spread_Aim 0.0002
+Spread_Hip 0.7
+
+Ballistic_Steps 24
+Ballistic_Travel 12.5
+Ballistic_Drop 0.0000001
+
+Recoil_Aim 0.25
+Recoil_Min_X -20
+Recoil_Min_Y 35
+Recoil_Max_X 20
+Recoil_Max_Y 40
+
+Recover_X 0.6
+Recover_Y 0.6
+
+Shake_Min_X -0.005
+Shake_Min_Y -0.005
+Shake_Min_Z -0.05
+Shake_Max_X 0.005
+Shake_Max_Y -0.005
+Shake_Max_Z -0.1
+
+Muzzle 4
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 15050
+Blueprint_1_Product 67
+Blueprint_1_Products 11
+Blueprint_1_Build 27
+
+Exclude_From_Master_Bundle

@@ -1,0 +1,14 @@
+GUID 729c686e168740dd9400513f8f7f3277
+Type NPC
+ID 43011
+
+Shirt 62527
+Pants 62526
+Glasses 62525
+
+Face 27
+Hair 18
+Color_Skin #e0ac69
+Color_Hair #000000
+
+Dialogue 43310

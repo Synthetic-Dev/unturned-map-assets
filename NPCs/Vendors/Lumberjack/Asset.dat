@@ -1,0 +1,61 @@
+GUID 5267b090d31a438b940dd7139998bdb0
+Type Vendor
+ID 43101
+
+Buying 12
+
+Buying_0_ID 42
+Buying_0_Cost 2
+
+Buying_1_ID 41
+Buying_1_Cost 20
+
+Buying_2_ID 40
+Buying_2_Cost 2
+
+Buying_3_ID 39
+Buying_3_Cost 20
+
+Buying_4_ID 38
+Buying_4_Cost 2
+
+Buying_5_ID 37
+Buying_5_Cost 20
+
+Buying_6_ID 63
+Buying_6_Cost 7
+
+Buying_7_ID 62
+Buying_7_Cost 7
+
+Buying_8_ID 61
+Buying_8_Cost 7
+
+Buying_9_ID 49115
+Buying_9_Cost 200
+
+Buying_10_ID 49117
+Buying_10_Cost 200
+
+Buying_11_ID 49119
+Buying_11_Cost 200
+
+Selling 6
+
+Selling_0_ID 16
+Selling_0_Cost 250
+
+Selling_1_ID 490
+Selling_1_Cost 1000
+
+Selling_2_ID 141
+Selling_2_Cost 350
+
+Selling_3_ID 253
+Selling_3_Cost 400
+
+Selling_4_ID 211
+Selling_4_Cost 120
+
+Selling_5_ID 213
+Selling_5_Cost 100

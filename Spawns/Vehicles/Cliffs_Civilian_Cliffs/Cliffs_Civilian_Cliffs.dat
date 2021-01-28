@@ -1,0 +1,19 @@
+GUID 7ef93a91de7e42238d42658c10b15bfa
+Type Spawn
+ID 10101
+
+Tables 7
+Table_0_Asset_ID 15004
+Table_0_Weight 1
+Table_1_Asset_ID 15005
+Table_1_Weight 1
+Table_2_Asset_ID 15006
+Table_2_Weight 1
+Table_3_Asset_ID 15001
+Table_3_Weight 1
+Table_4_Asset_ID 15002
+Table_4_Weight 1
+Table_5_Asset_ID 15003
+Table_5_Weight 1
+Table_6_Asset_ID 15000
+Table_6_Weight 1

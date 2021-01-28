@@ -1,0 +1,18 @@
+GUID d43a31fb75b64ed2b79ccaf35fd6e088
+Type NPC
+ID 43015
+
+Shirt 9928
+Pants 9939
+Vest 9940
+Mask 1446
+
+Face 27
+Hair 18
+Color_Skin #bea582
+Color_Hair #843a39
+
+Primary 7470
+Secondary 57059
+
+Dialogue 43350

@@ -1,0 +1,20 @@
+GUID fc513bf87a2848268e1b50e6bf9f8c77
+Type NPC
+ID 43000
+
+Shirt 1156
+Pants 1157
+Backpack 1182
+
+Face 16
+Beard 0
+Hair 5
+Color_Skin #d6af71
+Color_Hair #220f02
+
+Primary 112
+Secondary 97
+Tertiary 271
+Equipped Tertiary
+
+Dialogue 43200

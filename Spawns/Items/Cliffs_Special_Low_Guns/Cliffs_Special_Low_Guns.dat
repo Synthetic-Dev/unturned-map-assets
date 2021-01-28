@@ -1,0 +1,11 @@
+GUID 7671642697624b5a8d78d7056dee765b
+Type Spawn
+ID 10074
+
+Tables 3
+Table_0_Spawn_ID 10061
+Table_0_Weight 10
+Table_1_Asset_ID 18
+Table_1_Weight 5
+Table_2_Asset_ID 1362
+Table_2_Weight 5

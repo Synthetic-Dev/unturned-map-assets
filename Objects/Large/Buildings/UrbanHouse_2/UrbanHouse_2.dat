@@ -1,0 +1,11 @@
+GUID 7b3e3dc7752849fda9faa9d8b2f75933
+
+Type Large
+
+ID 3123
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Exclude_From_Master_Bundle

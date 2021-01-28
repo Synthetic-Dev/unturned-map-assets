@@ -1,0 +1,16 @@
+GUID 3d889c437f664d48a0403ad97fa66d0c
+Type NPC
+ID 43006
+
+Shirt 230
+Pants 231
+
+Face 1
+Beard 0
+Hair 7
+Color_Skin #f9dec0
+Color_Hair #eee7b1
+
+Pose Sit
+
+Dialogue 43260

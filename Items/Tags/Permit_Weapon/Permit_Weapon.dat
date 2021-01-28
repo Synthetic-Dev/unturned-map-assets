@@ -1,0 +1,16 @@
+GUID 234467517562488aac45fe630e9cfb7d
+Type Barricade
+Useable Barricade
+Build Note
+ID 17114
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 50
+Range 4
+Offset 0.025
+
+Explosion 58
+Vulnerable

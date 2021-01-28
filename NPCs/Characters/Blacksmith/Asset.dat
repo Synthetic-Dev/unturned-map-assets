@@ -1,0 +1,18 @@
+GUID 1bba9532d1594aacb5847323a1eeeff5
+Type NPC
+ID 43010
+
+Shirt 15030
+Pants 15031
+Mask 15009
+
+Face 24
+Beard 8
+Hair 13
+Color_Skin #604b29
+Color_Hair #664f39
+
+Secondary 138
+Equipped Secondary
+
+Dialogue 43300

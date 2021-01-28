@@ -1,0 +1,27 @@
+﻿GUID 3a66cbc2f1364945b3718f51749e0a25
+Type Dialogue
+ID 43370
+
+Messages 3
+
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Item
+Message_0_Condition_0_ID 44017
+Message_0_Condition_0_Amount 1
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_1_Type Item
+Message_1_Condition_1_ID 44015
+Message_1_Condition_1_Amount 1
+Message_2_Pages 1
+
+Responses 2
+
+Response_0_Dialogue 43371
+Response_0_Vendor 43115
+Response_0_Conditions 1
+Response_0_Condition_0_Type Item
+Response_0_Condition_0_ID 44017
+Response_0_Condition_Logic Not_Equal
+Response_0_Condition_0_Amount 1

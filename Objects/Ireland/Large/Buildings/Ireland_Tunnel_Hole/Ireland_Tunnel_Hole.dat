@@ -1,0 +1,14 @@
+GUID fe8b4301cecb4219abdb3875a3984c2e
+
+Type Large
+ID 15037
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Soft
+Snowshoe
+Chart Cliff
+
+Exclude_From_Master_Bundle

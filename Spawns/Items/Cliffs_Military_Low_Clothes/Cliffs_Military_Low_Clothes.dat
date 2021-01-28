@@ -1,0 +1,13 @@
+GUID c457b2bf0ab54363aadafb6ad38e2be4
+Type Spawn
+ID 10056
+
+Tables 4
+Table_0_Asset_ID 15007
+Table_0_Weight 10
+Table_1_Asset_ID 15003
+Table_1_Weight 10
+Table_2_Asset_ID 15004
+Table_2_Weight 10
+Table_3_Asset_ID 15005
+Table_3_Weight 5

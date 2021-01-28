@@ -1,0 +1,16 @@
+GUID e5c8b56e591b4482a2d88819e38c2565
+
+Type Large
+ID 15060
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Chart Street
+
+Soft
+
+Collision_Important
+Landmark_Quality Ultra
+
+Exclude_From_Master_Bundle

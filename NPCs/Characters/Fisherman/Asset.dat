@@ -1,0 +1,20 @@
+GUID 746cb3b307c4439ea1a10b43440b0582
+Type NPC
+ID 43003
+
+Shirt 510
+Pants 511
+
+Face 12
+Beard 9
+Hair 14
+Color_Skin #a88e64
+Color_Hair #72685b
+
+Pose Sit
+
+Primary 503
+Secondary 121
+Equipped Primary
+
+Dialogue 43230
