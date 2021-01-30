@@ -1,0 +1,17 @@
+GUID cdd7a3f950a04fef8afcc7e493394307
+Type Dialogue
+ID 5111
+
+Messages 1
+Message_0_Pages 1
+
+Responses 4
+
+// Shop Möbel
+Response_0_Vendor 5116
+
+// Shop Lager
+Response_1_Vendor 5117
+
+// Shop Electro
+Response_2_Vendor 5118
